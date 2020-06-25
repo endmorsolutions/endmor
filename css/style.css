@@ -1180,3 +1180,6 @@ text-shadow: none;
 		background: #00beb6;
 	}
 	
+	.blog-bg-curve img.w-90{
+		width: 90%;
+	}
