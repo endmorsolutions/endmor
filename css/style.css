@@ -1156,4 +1156,27 @@ text-shadow: none;
 		font-size: 2em;
 	}
 
+	.main_contact a{
+		color: #000;
+	}
+	.main_contact a:hover{
+		text-decoration: none;
+	}
+	.c_data{
+		background: #fff;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		padding: 25px;
+		border-radius: 31px;
+	}
+	.c_data i{
+		font-size: 91px;
+		margin-bottom: 15px;
+		color: #00beb6;
+	}
+	.c_data p{
+		font-size: 15px;
+	}
+	.c_data.selected{
+		background: #00beb6;
+	}
 	
