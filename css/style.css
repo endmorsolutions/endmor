@@ -1183,3 +1183,8 @@ text-shadow: none;
 	.blog-bg-curve img.w-90{
 		width: 90%;
 	}
+
+	#scrollUp {
+		top:90px!important;
+		right:30px!important;
+	}
