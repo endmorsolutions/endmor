@@ -1188,3 +1188,13 @@ text-shadow: none;
 		bottom:100px!important;
 		right:30px!important;
 	}
+
+	@media (max-width:767px){
+		.single-testimonial-slide .testimonial-thumbnail{
+			margin-left:auto;
+			margin-right:auto;
+		}	
+		.header-area .main-header-area{
+			border:none!important;
+		}
+	}
