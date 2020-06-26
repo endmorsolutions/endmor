@@ -1185,6 +1185,6 @@ text-shadow: none;
 	}
 
 	#scrollUp {
-		top:90px!important;
+		bottom:90px!important;
 		right:30px!important;
 	}
