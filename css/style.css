@@ -1192,7 +1192,7 @@ text-shadow: none;
 	@media (max-width:767px){
 		.single-testimonial-slide .testimonial-thumbnail{
 			margin-left:auto;
-			margin-right:auto;
+			margin-right:auto!important;
 		}	
 		.header-area .main-header-area{
 			border:none!important;
